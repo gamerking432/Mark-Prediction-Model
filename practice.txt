@@ -1,0 +1,15 @@
+dset = np.array([[1,2,3],
+                 [4,5,6]])
+
+
+dset2 = np.array([1,2])
+
+dset = shape(2,3)
+dset2 = shape(2,)
+
+2,3 + 2,
+
+23
+ 2
+
+ 3 is not equal to 2 
